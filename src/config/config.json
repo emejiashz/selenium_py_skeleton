@@ -1,0 +1,8 @@
+{
+    "env_url":"https://www.google.com"
+,
+    "login": {
+        "username": "your_username",
+        "password": "your_password"
+    }
+}
